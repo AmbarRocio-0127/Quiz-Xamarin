@@ -1,0 +1,12 @@
+C:\Users\Ambar Rocio\source\repos\QuizApp\QuizApp\QuizApp\bin\Debug\netstandard2.0\QuizApp.deps.json
+C:\Users\Ambar Rocio\source\repos\QuizApp\QuizApp\QuizApp\bin\Debug\netstandard2.0\QuizApp.dll
+C:\Users\Ambar Rocio\source\repos\QuizApp\QuizApp\QuizApp\bin\Debug\netstandard2.0\QuizApp.pdb
+C:\Users\Ambar Rocio\source\repos\QuizApp\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.csprojAssemblyReference.cache
+C:\Users\Ambar Rocio\source\repos\QuizApp\QuizApp\QuizApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ambar Rocio\source\repos\QuizApp\QuizApp\QuizApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ambar Rocio\source\repos\QuizApp\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\Ambar Rocio\source\repos\QuizApp\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.AssemblyInfoInputs.cache
+C:\Users\Ambar Rocio\source\repos\QuizApp\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.AssemblyInfo.cs
+C:\Users\Ambar Rocio\source\repos\QuizApp\QuizApp\QuizApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ambar Rocio\source\repos\QuizApp\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.dll
+C:\Users\Ambar Rocio\source\repos\QuizApp\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.pdb
